@@ -108,7 +108,7 @@ def main():
     else:
         rele1.on()
         rele2.off()
-        print("Tiskanje")
+        print("Printing")
 """
     
 
